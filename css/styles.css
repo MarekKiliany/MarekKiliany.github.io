@@ -84,7 +84,7 @@ hr {
   position: relative;
 }
 .getintouchContainer {
-  width: 70%;
+  width: 80%;
   margin: 30px auto 30px auto;
   position: relative;
   text-align: center;
@@ -102,7 +102,7 @@ hr {
 
 .gallery {
   margin: 20px;
-  width: 48%;
+  width: 50%;
   display: inline-block;
   left: 0px;
   top: 0px;
@@ -124,7 +124,7 @@ hr {
 .intro {
   text-align: center;
   margin: auto;
-  width: 60%;
+  width: 80%;
 }
 
 .btn {
