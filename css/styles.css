@@ -65,7 +65,7 @@ hr {
 }
 
 .middleContainer {
-  width: 60%;
+  width: 80%;
   margin: 30px auto 30px auto;
   position: relative;
   padding-left: 80px;
@@ -79,7 +79,7 @@ hr {
 }
 
 .galleryContainer {
-  width: 50%;
+  width: 80%;
   margin: 30px auto 30px auto;
   position: relative;
 }
